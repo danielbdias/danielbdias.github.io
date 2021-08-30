@@ -1,0 +1,12 @@
+---
+title: "A committee machine implementing the pattern recognition module for fingerspelling applications"
+collection: publications
+permalink: /publication/2010-03-comitee-machine-fingerspelling-applications
+excerpt: 'In several countries, deaf communities adopt the sign language as their official and natural language. This fact inserts a new field for the software application development that can improve sign language dissemination and social inclusion of deaf people. Alphabetic character-based applications, like games and educational softwares, can be adapted to run as fingerspelling-based applications, in which the inputs are signs (static images or videos) rather than letters (typed letters). In this paper, we present a Pattern Recognition Module, implemented by Committee Machine, for fingerspelling applications. The committee experts are built with supervised and unsupervised Fuzzy Learning Vector Quantization models using the" boosting by filtering" strategy. The module was tested in a specific sign language context considering hand configurations and hand movements.'
+date: 2010-03-22
+venue: 'Proceedings of the 2010 ACM Symposium on Applied Computing'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/1774088.1774287'
+citation: 'Madeo, R.C.B., Peres, S. M., Bíscaro, H.H., Dias, D.B., Boscarioli, C. (2010). &quot;A committee machine implementing the pattern recognition module for fingerspelling applications.&quot; <i>Proceedings of the 2010 ACM Symposium on Applied Computing</i>.'
+---
+
+In several countries, deaf communities adopt the sign language as their official and natural language. This fact inserts a new field for the software application development that can improve sign language dissemination and social inclusion of deaf people. Alphabetic character-based applications, like games and educational softwares, can be adapted to run as fingerspelling-based applications, in which the inputs are signs (static images or videos) rather than letters (typed letters). In this paper, we present a Pattern Recognition Module, implemented by Committee Machine, for fingerspelling applications. The committee experts are built with supervised and unsupervised Fuzzy Learning Vector Quantization models using the" boosting by filtering" strategy. The module was tested in a specific sign language context considering hand configurations and hand movements.
