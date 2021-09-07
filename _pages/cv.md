@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "About me"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,65 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+Software developer focused on solving problems, with a Bachelor degree in Information Systems and MSc in Computer Science, both in the University of São Paulo.
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Worked at companies in the following areas: financial market, information technology, health, digital marketing and games.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+My areas of interest are Software Engineering and Artificial Intelligence (with focus on Automated Planning, Pattern Recognition, and Machine Learning).
+
+## Education
+* Bachelor in Information Systems, University of São Paulo, 2010
+* Master in Science in Computer Science (Artificial Intelligence area), University of São Paulo, 2014
+* Doctorate in Science in Computer Science (Artificial Intelligence area), University of São Paulo, 2024 (expected)
+
+## Work experience
+* 2020-06 to now: Software Developer
+  * Wildlife Studios
+  * Duties: Developer of the Game Services team, responsible for supporting and evolving the backend systems used by all Wildlife games.
+
+* 2019-01 to 2020-06: Software Developer
+  * Resultados Digitais (later acquired by Totvs)
+  * Duties: Responsible for evolving the billing systems to support the Finance team and support the billing of the RD Station product.
+
+* 2018-05 to 2019-01: Chief Technology Officer
+  * Aliança Hospitalar
+  * Duties: Coordinated the development of a system that otimized the revenue cycle on hospitals, written on Node.js, Python and PHP, handling millions of medical bills in a month.
+
+* 2015-11 to 2018-05: Software Developer
+  * Sprinklr
+  * Duties: Worked at a omni-channel product that could connect customers to companies in many Social Networks.
+
+* 2011-07 to 2015-11: Research & Development Analyst
+  * MVar (later acquired by MATERA)
+  * Duties: Member of R&D team responsible to create and implement mathematical models of company risk management softwares.
+
+* 2009-10 to 2011-02: Software Developer
+  * Interfloat HZ (later acquired by XP Investimentos)
+  * Duties: Responsible in develop and analyse the support backoffice and risk systems and customer support website.
+
+* 2008-02 to 2009-10: Software Developer
+  * BSI Tecnologia
+  * Duties: Developer of Siscom system, a CRM system of BSI customer, Telefónica.
+
+* 2006-01 to 2008-02: Software Developer
+  * Brastel Co. Ltd.
+  * Duties: Worked as programmer on projects of company headquarters in Japan and for subsidiaries in United States and Brazil.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Skills and Tools
+* Programming Languages (Go, Ruby, C#, Javascript, Python, R, Java, Visual Basic, PHP)
+* Software Development Tools (Git, Docker)
+* Software Design (Domain Driven Design, Clean Architecture)
+* Databases (Postgres, MySQL, SQL Server, Oracle, MongoDB, Redis)
+* Cloud Providers (AWS, GCP, Heroku)
+* SRE (Kubernetes, Terraform)
+* Other (Machine Learning, Automated Planning, Reinforcement Learning, Credit Risk)
 
-Publications
-======
+## Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+## Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
