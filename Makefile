@@ -6,3 +6,7 @@ help: Makefile ## Show list of commands
 .PHONY: run
 run: ## Build and run the site on the local machine
 	@bundle exec jekyll liveserve
+
+.PHONY: install
+install: ## Install dependencies to build site
+	@bundle install
