@@ -11,7 +11,7 @@ title                    : "DBDias webpage"
 title_separator          : "-"
 name                     : &name "Daniel Baptista Dias"
 description              : &description "Computer scientist, father, husband and fan of games, kung-fu and science fiction. He/him."
-url                      : https://danielbdias.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.dbdias.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "danielbdias/danielbdias.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
