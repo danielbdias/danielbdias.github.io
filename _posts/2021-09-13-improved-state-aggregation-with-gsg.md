@@ -8,13 +8,14 @@ tags:
   - q-learning
 ---
 
-Improved State Aggregation with Growing Neural Gas in Multidimensional State Spaces
+Discussion about the article "Improved State Aggregation with Growing Neural Gas in Multidimensional State Spaces" by Baumann, Michael, Timo Klerx, and Hans Kleine Büning. Published at Proceedings of ERLARS (2012).
 
-Headings are cool
+Main points
 ======
 
-You can have many headings
-======
+TODO
 
-Aren't headings cool?
+More details
 ------
+
+- [Link](https://www.researchgate.net/profile/Timo-Klerx/publication/259561481_Improved_State_Aggregation_with_Growing_Neural_Gas_in_Multidimensional_State_Spaces/links/561e69b308aec7945a26a23f/Improved-State-Aggregation-with-Growing-Neural-Gas-in-Multidimensional-State-Spaces.pdf)
