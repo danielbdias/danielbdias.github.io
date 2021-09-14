@@ -21,37 +21,29 @@ My areas of interest are Software Engineering and Artificial Intelligence (with 
 * Doctorate in Science in Computer Science (Artificial Intelligence area), University of São Paulo, 2024 (expected)
 
 ## Work experience
-* 2020-06 to now: Software Developer
-  * Wildlife Studios
-  * Duties: Developer of the Game Services team, responsible for supporting and evolving the backend systems used by all Wildlife games.
+* 2020-06 to now, **Wildlife Studios**: Software Developer
+  * Developer on the Game Services team, responsible for supporting and evolving the backend systems used by all Wildlife games.
 
-* 2019-01 to 2020-06: Software Developer
-  * Resultados Digitais (later acquired by Totvs)
-  * Duties: Responsible for evolving the billing systems to support the Finance team and support the billing of the RD Station product.
+* 2019-01 to 2020-06, **Resultados Digitais (later acquired by Totvs)**: Software Developer
+  * Responsible for evolving the billing systems to support the Finance team and support the billing of the RD Station product.
 
-* 2018-05 to 2019-01: Chief Technology Officer
-  * Aliança Hospitalar
-  * Duties: Coordinated the development of a system that otimized the revenue cycle on hospitals, written on Node.js, Python and PHP, handling millions of medical bills in a month.
+* 2018-05 to 2019-01, **Aliança Hospitalar**: Chief Technology Officer
+  * Coordinated the development of a system that otimized the revenue cycle on hospitals, written on Node.js, Python and PHP, handling millions of medical bills in a month.
 
-* 2015-11 to 2018-05: Software Developer
-  * Sprinklr
-  * Duties: Worked at a omni-channel product that could connect customers to companies in many Social Networks.
+* 2015-11 to 2018-05, **Sprinklr**: Software Developer
+  * Worked at a omni-channel product that could connect customers to companies in many Social Networks.
 
-* 2011-07 to 2015-11: Research & Development Analyst
-  * MVar (later acquired by MATERA)
-  * Duties: Member of R&D team responsible to create and implement mathematical models of company risk management softwares.
+* 2011-07 to 2015-11, **MVar (later acquired by MATERA)**: Research & Development Analyst
+  * Member of R&D team responsible to create and implement mathematical models of company risk management softwares.
 
-* 2009-10 to 2011-02: Software Developer
-  * Interfloat HZ (later acquired by XP Investimentos)
-  * Duties: Responsible in develop and analyse the support backoffice and risk systems and customer support website.
+* 2009-10 to 2011-02, **Interfloat HZ (later acquired by XP Investimentos)**: Software Developer
+  * Responsible in develop and analyse the support backoffice and risk systems and customer support website.
 
-* 2008-02 to 2009-10: Software Developer
-  * BSI Tecnologia
-  * Duties: Developer of Siscom system, a CRM system of BSI customer, Telefónica.
+* 2008-02 to 2009-10, **BSI Tecnologia**: Software Developer
+  * Developer of Siscom system, a CRM system of BSI customer, Telefónica.
 
-* 2006-01 to 2008-02: Software Developer
-  * Brastel Co. Ltd.
-  * Duties: Worked as programmer on projects of company headquarters in Japan and for subsidiaries in United States and Brazil.
+* 2006-01 to 2008-02, **Brastel Co. Ltd.**: Software Developer
+  * Worked as programmer on projects of company headquarters in Japan and for subsidiaries in United States and Brazil.
   
 ## Skills and Tools
 * Programming Languages (Go, Ruby, C#, Javascript, Python, R, Java, Visual Basic, PHP)
