@@ -13,7 +13,9 @@ Discussion about the article "Improved State Aggregation with Growing Neural Gas
 Main points
 ======
 
-TODO
+This article propose an improved way to aggregate states with a novel algorithm called GNG-Q^+, an extension of the GNG (proposed by Baumann and Büning in 2011). The algorithm is based on the idea of a using a growing neural gas (GNG) algorithm as an approximation of an abstraction function, to summarize continuous states into discrete states and use this data on Q-learning algorithm. The GNG-Q algorithm learns both the abstraction function and the Q-function as the agent interacts with the environment, until reaching the convergence.
+
+The GNG-Q^+ changes some aspects of the GNG-Q with the idea of improving the learning speed and reducing the number of neurons used by GSG neural network to represent the abstraction function. This is done by using eligibility traces and improving the adaptation of the GSG to the data. 
 
 More details
 ------
