@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Daniel, a software developer and AI researcher located in Buenos Aires, Argentina, working as a Software Developer at [Wildlife Studios](https://wildlifestudios.com/) and being a doctorate candidate at the [Mathematics and Statistics Institute](http://www.ime.usp.br/) of the [University of São Paulo](http://www.usp.br/).
+Hello! I'm Daniel, a software developer and AI researcher located in Buenos Aires, Argentina, working as a Senior Software Developer at [Kubeshop](https://kubeshop.io/) and being a doctorate student at the [Mathematics and Statistics Institute](http://www.ime.usp.br/) of the [University of São Paulo](http://www.usp.br/).
 
 On this webpage you will see some of my personal work and academic studies. While I'm not doing work I'm playing video games, training kung-fu or discovering the world with my wife and my 4-year old daughter. =)
 

@@ -21,16 +21,19 @@ My areas of interest are Software Engineering and Artificial Intelligence (with 
 * Doctorate in Science in Computer Science (Artificial Intelligence area), University of São Paulo, 2024 (expected)
 
 ## Work experience
-* 2020-06 to now, **Wildlife Studios**: Software Developer
+* 2022-12 to now, **Kubeshop**
+  * Maintainer of [Tracetest](https://tracetest.io/), a tool that generates end-to-end tests for distributed systems.
+
+* 2020-06 to 2022-11, **Wildlife Studios**: Senior Software Developer
   * Developer on the Game Services team, responsible for supporting and evolving the backend systems used by all Wildlife games.
 
-* 2019-01 to 2020-06, **Resultados Digitais (later acquired by Totvs)**: Software Developer
+* 2019-01 to 2020-06, **Resultados Digitais (later acquired by Totvs)**: Senior Software Developer
   * Responsible for evolving the billing systems to support the Finance team and support the billing of the RD Station product.
 
 * 2018-05 to 2019-01, **Aliança Hospitalar**: Chief Technology Officer
   * Coordinated the development of a system that otimized the revenue cycle on hospitals, written on Node.js, Python and PHP, handling millions of medical bills in a month.
 
-* 2015-11 to 2018-05, **Sprinklr**: Software Developer
+* 2015-11 to 2018-05, **Sprinklr**: Senior Software Developer
   * Worked at a omni-channel product that could connect customers to companies in many Social Networks.
 
 * 2011-07 to 2015-11, **MVar (later acquired by MATERA)**: Research & Development Analyst
