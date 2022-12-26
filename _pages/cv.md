@@ -21,7 +21,7 @@ My areas of interest are Software Engineering and Artificial Intelligence (with 
 * Doctorate in Science in Computer Science (Artificial Intelligence area), University of São Paulo, 2024 (expected)
 
 ## Work experience
-* 2022-12 to now, **Kubeshop**
+* 2022-12 to now, **Kubeshop**: Senior Software Developer
   * Maintainer of [Tracetest](https://tracetest.io/), a tool that generates end-to-end tests for distributed systems.
 
 * 2020-06 to 2022-11, **Wildlife Studios**: Senior Software Developer
